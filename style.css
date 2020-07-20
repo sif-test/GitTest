@@ -1,0 +1,44 @@
+/*
+CSS - Cascading Style Sheet
+
+selector{
+	property : value ;
+	property : value ;
+
+	property : value ;
+
+	
+}
+
+px = pixel
+
+color code = > hex value # 90 90 90
+*/
+
+body{
+	background-color: #EBF5FB;
+}
+
+header{
+	background-image: url("background.jpeg");
+	background-repeat: repeat-x;
+}
+
+h1{
+	color: #2874A6;
+	text-align: center;
+}
+
+nav a{
+	text-decoration: none;
+}
+
+ul{
+	list-style-type: none;
+}
+
+img{
+
+	height: 100px;
+	width: 100px;
+}
